@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/post/first-post/</loc>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/post/first-post/</loc>
     <lastmod>2019-05-05T10:39:52-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2019-05-05T10:39:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/</loc>
     <lastmod>2019-05-05T10:39:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/post/</loc>
+    <lastmod>2019-05-05T10:39:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://sachicorrea.github.io/InfoSoftGeeks/tags/</loc>
     <priority>0</priority>
   </url>
   
