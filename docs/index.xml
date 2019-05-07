@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>First Post</title>
+      <title>Importancia de la Lógica Computacional</title>
+      <link>https://sachicorrea.github.io/InfoSoftGeeks/post/aplicaciones-inferencia-logica/</link>
+      <pubDate>Sun, 05 May 2019 10:39:52 -0400</pubDate>
+      
+      <guid>https://sachicorrea.github.io/InfoSoftGeeks/post/aplicaciones-inferencia-logica/</guid>
+      <description>Aplicaciones Inferencia Logica El uso extendido de la Lógica de Primer Orden y la Lógica Formal en lenguajes de programación, en especial aquellos relacionados con Inteligencia Artificial y Lingüística Computacional, son expresados en términos de relaciones entre elementos de la sintaxis de los lenguajes de programación, a su vez representados en datos y reglas. Esto ocurre en especial en lenguajes como Prologue, lenguaje usado en los campos mencionados y que utiliza Queries para iniciar estas acciones.</description>
+    </item>
+    
+    <item>
+      <title>Importancia de la Lógica Computacional</title>
       <link>https://sachicorrea.github.io/InfoSoftGeeks/post/first-post/</link>
       <pubDate>Sun, 05 May 2019 10:39:52 -0400</pubDate>
       
       <guid>https://sachicorrea.github.io/InfoSoftGeeks/post/first-post/</guid>
-      <description>Importancia de la Lógica Computacional No hay un método conocido más general y poderoso para describir y analizar información&amp;rdquo;. Ron Brachman. Director en Jacobs Technion-Cornell Institute a en Cornell Tech. Fuente: Wikipedia: Logic in Computer Science Article.*
+      <description>Importancia de la Lógica Computacional No hay un método conocido más general y poderoso para describir y analizar información&amp;rdquo;. Ron Brachman. Director en Jacobs Technion-Cornell Institute a en Cornell Tech. Fuente: Wikipedia: Logic in Computer Science Article.
 Con esta sencilla frase, se resume la importancia de este tipo de lógica en el mundo de la computación, la cual es más conocida como lófgica de primer orden. Y es innegable su alcance en el desarrollo de software, en la transformación de especificaciones y en el desarrollo de frames para lenguajes modernos.</description>
     </item>
     
