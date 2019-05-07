@@ -3,7 +3,7 @@ baseurl = "https://sachicorrea.github.io/InfoSoftGeeks/"
 Publishdir = "docs"
 themesDir = "themes"
 languageCode = "sp"
-title = "My Example Hugo Website"
+title = "Informatica para Principiantes"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
