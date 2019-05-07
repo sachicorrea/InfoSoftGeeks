@@ -12,4 +12,4 @@ sachicorrea: Desarrolador de Software. Chico cibernético.
 # Bienvenido a mi blog de Informática y Computación
 
 Espero encuentre información valiosa en este blog. 
-Bloggero. Amante del Software Libre. Programador.
+Soy Bloggero. Amante del Software Libre. Programador.
