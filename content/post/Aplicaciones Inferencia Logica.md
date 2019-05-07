@@ -1,9 +1,9 @@
 ---
-title: "Importancia de la Lógica Computacional"
+title: "Aplicaciones Inferencia Lógica"
 date: 2019-05-05T10:39:52-04:00
 draft: false
 ---
-# Aplicaciones Inferencia Logica
+# ¿Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de Inferencia lógica?
 
 El uso extendido de la Lógica de Primer Orden y la Lógica Formal en lenguajes de programación, en especial aquellos relacionados con Inteligencia Artificial y Lingüística Computacional, son expresados en términos de relaciones entre elementos de la sintaxis de los lenguajes de programación, a su vez representados en datos y reglas. Esto ocurre en especial en lenguajes como Prologue, lenguaje usado en los campos mencionados y que utiliza Queries para iniciar estas acciones.
 

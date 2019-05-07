@@ -1,9 +1,9 @@
 ---
-title: "Importancia de la Lógica Computacional"
+title: "Importancia del Dominio de la Lógica Proposicional"
 date: 2019-05-05T10:39:52-04:00
 draft: false
 ---
-# Importancia de la Lógica Computacional
+# Por qué es importante para todo profesional en carreras relacionadas con computación dominar los fundamentos básicos de lógica proposicional?
 
 No hay un método conocido más general y poderoso para describir y analizar información". Ron Brachman. Director en Jacobs Technion-Cornell Institute a en Cornell Tech. Fuente: Wikipedia: Logic in Computer Science Article.
 
