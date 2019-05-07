@@ -2,7 +2,7 @@
 baseurl = "https://sachicorrea.github.io/InfoSoftGeeks/"
 Publishdir = "docs"
 themesDir = "themes"
-languageCode = "sp"
+languageCode = "es"
 title = "Informatica para Principiantes"
 theme = "cactus"
 # Enter your tracking code to enable Google Analytics
@@ -11,11 +11,11 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-	name = "Jacob"
-	description = "This is my website"
-	bio = "I make youtube videos about web development"
+	name = "sachicorrea"
+	description = "My website dedicado a la informática para principiantes"
+	bio = "Desarrollador de Software Junior"
 	# Enter optionally your twitter account
-	twitter = "Geek_Launch"
+	twitter = "santicorrea"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -35,7 +35,7 @@ disqusShortname = ""
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "Bloguero. Desarrollador de Software"
 	tweet = ""
 	share = ""
 	# 404 page
