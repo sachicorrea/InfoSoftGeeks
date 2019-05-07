@@ -1,5 +1,5 @@
 ---
-title: "Aplicaciones Inferencia Lógica"
+title: "Importancia Inferencia Lógica"
 date: 2019-05-05T10:39:52-04:00
 draft: false
 ---
