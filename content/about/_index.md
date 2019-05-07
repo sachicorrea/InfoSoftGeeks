@@ -1,16 +1,15 @@
 +++
-date = "2015-06-20T14:02:37+02:00"
+date = ""
 title = "About"
 hidden = true
 menu = "main"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ullam earum dolorum! Sed, perspiciatis.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+sachicorrea: Desarrolador de Software. Chico cibernético.
 
 ***
 
-### Lorem ipsum dolor.
+# Bienvenido a mi blog de Informática y Computación
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
+Espero encuentre información valiosa en este blog. 
+Bloggero. Amante del Software Libre. Programador.
