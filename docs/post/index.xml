@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Aproximación Lógica Difusa</title>
+      <link>https://sachicorrea.github.io/InfoSoftGeeks/post/aproximacion-logica-difusa/</link>
+      <pubDate>Sun, 05 May 2019 10:39:52 -0400</pubDate>
+      
+      <guid>https://sachicorrea.github.io/InfoSoftGeeks/post/aproximacion-logica-difusa/</guid>
+      <description>Qué relación tiene el contenido del módulo con lógica difusa? La lógica difusa o Fuzzy Logic en inglés basa su estudio en el resultado de razonamientos a partir de un conocimiento parcial o inexacto. Esta lógica utiliza los grados de verdad como modelos matematicos de impresición, mientras que la probabilidad es usada en los modelos matemáticos donde la ignorancia es imperativa.
+Como en el modelo de la temperatura, donde se pasa de frio a templado y de este estado a caliente, la lógica difusa puede medir linguisticamente si algo el “ligeramente” caliente o “moderadamente” frio por medio de los adjetivos y adverbios.</description>
+    </item>
+    
+    <item>
       <title>Importancia Dominio de la Lógica Proposicional</title>
       <link>https://sachicorrea.github.io/InfoSoftGeeks/post/dominio-logica-proposicional/</link>
       <pubDate>Sun, 05 May 2019 10:39:52 -0400</pubDate>
