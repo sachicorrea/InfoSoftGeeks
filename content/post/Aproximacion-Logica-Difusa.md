@@ -20,5 +20,7 @@ Este tipo de lógica también presenta su sistemas de lógica proposicional, ló
 
 En relación con las herramientas de lógica computacional y la lógica clásica, si existen similitudes en cuanto a la forma de expresar resultados, donde los valores TRUE/1 y FALSE/0 son iguales a los producidos en la lógica de expresiones booleanas, y se utilizan igualmente los operadores IF-THEN, AND y OR.
 
+Referencias:
+https://en.wikipedia.org/wiki/Fuzzy_logic
 
 

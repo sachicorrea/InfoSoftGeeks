@@ -11,5 +11,8 @@ Las inteligencias artificiales (IA) por medio de estos lenguajes basados en las 
 
 En conclusión, el uso de la Inferencia Lógica es esencial para los profesionales en las áreas de la computación, donde las aplicaciones de la IA se ha extendido para obtener software y aplicaciones que permitan la obtención y procesamiento de datos necesarios para otras áreas del conocimiento, en especial la inteligencia de negocios y las finanzas, donde son ampliamente utilizados para procesar datos y encontrar patrones que permitan expresar modelos de comportamiento, que quizás sean caóticos, y dificiles de formular por modelos matemáticos estándares.
 
+Referencias:
+https://en.wikipedia.org/wiki/Inference
+
 
 

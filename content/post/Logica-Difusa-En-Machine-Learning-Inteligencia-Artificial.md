@@ -11,4 +11,10 @@ La inteligencia artificial IA definidad como aquella inteligencia demostrada por
 
 En especial, la lógica difusa permite que las IA evaluen condiciones con cierto grado de verdad (el cual se evalúa en un rango entre 0 y 1) para encontrar si son verdaderos o falsos. Sin embargo, varios investigadores en este campo están revalidando el uso de esta lógica debido a las fallas que se presentan en la validez de las inferencias obtenidas por este método.
 
+Referencias:
+https://en.wikipedia.org/wiki/Machine_learning
+
+https://en.wikipedia.org/wiki/Artificial_intelligence
+
+https://www.youtube.com/watch?v=z-EtmaFJieY
 
