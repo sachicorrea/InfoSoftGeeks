@@ -9,7 +9,7 @@ Los ecorihtms o su palabra más cercana en español “ecoritmos” son todos aq
 
 La inteligencia artificial IA definidad como aquella inteligencia demostrada por las máquinas comparada con la humana o de origen animal, se vale del uso de la la lógica proposicional, la lógica de primer orden y la logica difusa para interpretar datos, objetos, sus propiedades y relaciones entre estos. 
 
-En especial, la lógica difusa permite que las IA evaluen condiciones con cierto grado de verdad (el cual se evalúa en un rango entre 0 y 1) para encontrar si son verdaderos o falsos. Sin embargo, varios investigadores en este campo están revalidando el uso de esta lógica debido a las fallas que se presentan en la validez de las inferencias obtenidas por este método.
+En especial, la lógica difusa permite que las IA evaluen condiciones con cierto grado de verdad (el cual se evalúa en un rango entre 0 y 1) para encontrar si son verdaderos o falsos. Sin embargo, varios investigadores en este campo han estado revalidando el uso de esta lógica debido a las fallas que se presentan en la validez de las inferencias obtenidas por las AI, que pueden llegar a ser inclusive peligrosas si alas situaciones implican afectación de vidas.
 
 Referencias:
 https://en.wikipedia.org/wiki/Machine_learning
